@@ -1,0 +1,2 @@
+project: main.c room.c hunter.c ghost.c evidence.c building.c defs.h
+        gcc -Wall -std=c99 -o project main.c hunter.c room.c ghost.c evidence.c building.c -g
