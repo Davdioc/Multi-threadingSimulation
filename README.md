@@ -1,6 +1,6 @@
 # Multi-threadingSimulation
 GHOSTBUSTERS
-# Ghostbuster-Inspired Simulation 👻🔦
+# Ghostbuster-Inspired Simulation
 
 A multi-threaded C simulation where hunters work to identify a ghost roaming through a haunted building. Inspired by paranormal investigation games and movies.
 
